@@ -1,71 +1,83 @@
-# my-portfolio-
-Read Me
-# 👋 Khaled Mehrez
+# 👨‍💻 Khaled Mehrez  
+**Senior Fullstack Developer | NestJS Specialist | 4 Years XP**
 
-**Senior Fullstack Developer** • **NestJS Specialist** • **4 Years Experience**
-
-Passionate about building backend systems that scale, writing clean and testable code, and solving real-world problems with technology.
+Backend-focused full-stack developer passionate about clean architecture, microservices, and delivering real value through scalable systems. I’ve spent the past 4 years crafting backend services, contributing to both startup growth and enterprise-grade platforms.
 
 ---
 
-## 🚀 Projects
+## 📍 About Me
 
-### 🧠 Project Title – *Short tagline*
-> Brief description of what the project does and your contribution.
-
-**Tech Stack:** NestJS • PostgreSQL • Docker • Microservices  
-**Status:** 🚧 In Progress / ✅ Completed  
-**Links:** [Live Demo](#) • [Repository](#) • [Screenshots](#)
+- 💼 Focused on **backend development** using **NestJS**, **Node.js**, and **MongoDB**
+- 🚀 Comfortable with building **microservices** and deploying to **cloud and CI/CD pipelines**
+- 🎯 Strong understanding of **SOLID principles**, **TDD**, and **Agile practices**
+- 🛠️ Experienced in cross-functional teams and fast-paced environments
 
 ---
 
-### 📦 Project Title – *Short tagline*
-> Short description.
+## 🧠 Tech Stack
 
-**Tech Stack:** ...  
-**Role:** ...  
-**Links:** ...
-
----
-
-## 💼 Experience
-
-### 🏢 Company Name – *Job Title*
-📍 Location | 🗓️ Start – End  
-- Built & maintained scalable APIs with NestJS and MongoDB.
-- Led backend efforts for [product name].
-- Collaborated closely with frontend team (React/Next.js).
+```
+NestJS • NodeJS • Express • MongoDB • Mongoose • TypeScript • NX Monorepo • Next.js • Vue.js  
+Docker • GitLab CI/CD • Swagger • Postman • Redis • BullMQ • Firebase Messaging
+```
 
 ---
 
-### 🏢 Company Name – *Job Title*
-📍 Location | 🗓️ Start – End  
-- Contributed to internal tools and business logic.
-- Refactored legacy code to modern standards.
+## 💼 Work Experience
+
+### 🟢 Affinica Affitech – _Senior Fullstack Developer_  
+**Sep 2024 – Present**
+
+- Built a custom analytics API for chatbot usage using **NestJS + MongoDB**
+- Integrated **OpenAI GPT APIs** into chatbot flows
+- Connected bots to Google Sheets, Slack with custom automation pipelines
+- Created dashboards for bot-specific KPIs
 
 ---
 
-## 🔧 Tech Stack
+### 🟡 Nexaminds – _Senior Fullstack Developer_  
+**May 2023 – Aug 2024**
 
-`NestJS` • `Node.js` • `MongoDB` • `PostgreSQL` • `Docker`  
-`TypeScript` • `React` • `Next.js` • `RabbitMQ` • `Microservices`
-
----
-
-## 🖼️ Screenshots / Demos
-
-> Add image previews later  
-> ![screenshot](link-to-image.png)
+- Contributed to backend in **NestJS (monorepo)** for talent acquisition platform  
+- Participated in architecture and sprint planning with a remote Agile team  
+- Maintained performance and scalability through efficient Mongo queries
 
 ---
 
-## 📫 Get In Touch
+### 🔴 ZSZ Developer (Lovester Project) – _Fullstack Developer_  
+**Apr 2021 – May 2023**
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🐙 [GitHub](https://github.com/your-username)  
-- ✉️ your.email@example.com  
+- Built multiple microservices: **Notifications**, **Personality Assessment**, **Media**
+- Helped build frontend with **Vue.js**, contributed to **Next.js** and **Strapi** for CMS
+- Implemented caching and background processing using **Redis** and **Bull**
 
 ---
 
-*This README is my digital portfolio. Most of my previous work was under private repos or company accounts, but I’ve documented as much as possible here.*
+## 🌱 Side Projects
 
+_Add these once we upload screenshots or links:_
+
+- 🔧 **Active Citizen Website** – Volunteering project under ONTJ + British Council
+- 📊 **Personal Stats Dashboard** – [coming soon]
+
+---
+
+## 📷 Screenshots
+
+> _You can paste images here using GitHub issues or direct uploads. For now, we’ll leave placeholders._
+
+```
+![Dashboard Example](screenshots/affinica-dashboard.png)
+```
+
+---
+
+## 🔗 Let's Connect
+
+- 📫 Email: [khaled.mehrez.m@gmail.com](mailto:khaled.mehrez.m@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/khaled-mehrez](https://www.linkedin.com/in/khaled-mehrez)  
+- 🛠️ GitHub: [github.com/khaledmehrez](https://github.com/khaledmehrez)
+
+---
+
+_“Code like your future depends on it — because it does.”_
