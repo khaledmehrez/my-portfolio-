@@ -99,4 +99,4 @@ _Add these once we upload screenshots or links:_
 
 ---
 
-_“Code like your future depends on it — because it does.”_
+_“Let things flow naturally forward in whatever way they like”_
