@@ -17,10 +17,11 @@ Backend-focused full-stack developer passionate about clean architecture, micros
 ## 🧠 Tech Stack
 
 ```
-**Backend:** NestJS, Node.js, Express, MongoDB, Mongoose, TypeScript, Php,Laravel,My-Sql  
+**Backend:** NestJS, Node.js, Express, MongoDB, Mongoose, TypeScript, PHP, Laravel, MySQL  
 **Frontend:** Next.js, Vue.js, Strapi  
 **DevOps / Tools:** Docker, GitLab CI/CD, Swagger, Postman, Redis, BullMQ  
 **Others:** NX Monorepo, Firebase Messaging, Agile, TDD, SOLID
+
 ```
 ## 🧭 What I’m Open To
 
@@ -32,7 +33,7 @@ Backend-focused full-stack developer passionate about clean architecture, micros
 
 ## 💼 Work Experience
 ### 🔴 Affincia (Affitech) – _Senior Fullstack Developer_ 
-**April 2025 – Present**  
+**Apr 2025 – Present**  
 Currently working on **Espace Client**, a web dashboard that allows users to manage their electricity contracts and households.
 
 - Developed and secured the **password reset flow**, including token handling and reset logic using **Laravel**
