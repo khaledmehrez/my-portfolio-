@@ -25,7 +25,7 @@ Docker • GitLab CI/CD • Swagger • Postman • Redis • BullMQ • Firebas
 
 ## 💼 Work Experience
 
-### 🟢 Hello_My_bot– _Senior Fullstack Developer_  
+### 🔵 Hello_My_bot– _Senior Fullstack Developer_  
 **Sep 2024 – Present**
 
 - Built a custom analytics API for chatbot usage using **NestJS + MongoDB**
@@ -35,7 +35,7 @@ Docker • GitLab CI/CD • Swagger • Postman • Redis • BullMQ • Firebas
 
 ---
 
-### 🟡 Nexaminds – _Senior Fullstack Developer_  
+### 🟠 Nexaminds – _Senior Fullstack Developer_  
 **May 2023 – Aug 2024**
 
 - Contributed to backend in **NestJS (monorepo)** for talent acquisition platform  
@@ -44,7 +44,7 @@ Docker • GitLab CI/CD • Swagger • Postman • Redis • BullMQ • Firebas
 
 ---
 
-### 🔴 ZSZ Developer (Lovester Project) – _Fullstack Developer_  
+### 🩷 ZSZ Developer (Lovester Project) – _Fullstack Developer_  
 **Apr 2021 – May 2023**
 
 - Built multiple microservices: **Notifications**, **Personality Assessment**, **Media**
