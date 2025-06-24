@@ -76,14 +76,17 @@ _Add these once we upload screenshots or links:_
 ![HMB 4](screenshots/HMB4.png) 
 
 ### 🟡 Nexaminds
-![Nexaminds Website](screenshots/NEXAMINDS_WEBSITE.png)
 ![Nexaminds Website 1](screenshots/NEXAMINDS_WEBSITE_1.png)
-![Nexaminds Website 2](screenshots/NEXAMINDS_WEBSITE2.png)
+![Nexaminds Website](screenshots/NEXAMINDS_WEBSITE.png)
+
 
 ### 🔴 ZSZ Developer (Lovester Project)
+## 🔴 Landing Website
+![Lovester Website](screenshots/LOVESTER_WEBSITE.png)
+
+## 🔴 Web App
 ![Lovester App](screenshots/LOVESTER_APP.png)
 ![Lovester App 1](screenshots/LOVESTER_APP1.png)
-![Lovester Website](screenshots/LOVESTER_WEBSITE.png)
 
 ### 🌱 Side Projects
 ![Espace Client](screenshots/ESPACE_CLIENT.png)
