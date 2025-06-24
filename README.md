@@ -73,7 +73,7 @@ _Add these once we upload screenshots or links:_
 ![HMB 1](screenshots/HMB1.png)
 ![HMB 2](screenshots/HMB2.png)
 ![HMB 3](screenshots/HMB3.png)
-![HMB 4](screenshots/HMB4.png)
+![HMB 4](screenshots/HMB4.png) 
 
 ### 🟡 Nexaminds
 ![Nexaminds Website](screenshots/NEXAMINDS_WEBSITE.png)
