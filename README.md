@@ -41,7 +41,7 @@ Currently working on **Espace Client**, a web dashboard that allows users to man
 - Contributed to both backend (Laravel) and frontend (Vue) in a cross-functional dev team
 
 
-### 🔵 Hello_My_bot– _Senior Fullstack Developer_  
+### 🔵 Hello_My_Bot– _Senior Fullstack Developer_  
 **Sep 2024 – Mar 2025**
 
 - Built a custom analytics API for chatbot usage using **NestJS + MongoDB**
@@ -82,6 +82,9 @@ _Add these once we upload screenshots or links:_
 
 > _You can paste images here using GitHub issues or direct uploads. For now, we’ll leave placeholders._
 
+### 🔴 Affincia (Affitech)
+![Espace Client](screenshots/ESPACE_CLIENT.png)
+![Espace Client 2](screenshots/ESPACE_CLIENT2.png)
 
 ### 🔵 Hello_My_bot
 ![HMB Cover](screenshots/HMB_COVER.jpeg)
@@ -104,9 +107,6 @@ _Add these once we upload screenshots or links:_
 ![Lovester App](screenshots/LOVESTER_APP.png)
 ![Lovester App 1](screenshots/LOVESTER_APP1.png)
 
-### 🌱 Side Projects
-![Espace Client](screenshots/ESPACE_CLIENT.png)
-![Espace Client 2](screenshots/ESPACE_CLIENT2.png)
 
 ---
 
