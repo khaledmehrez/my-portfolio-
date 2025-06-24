@@ -67,7 +67,7 @@ _Add these once we upload screenshots or links:_
 > _You can paste images here using GitHub issues or direct uploads. For now, we’ll leave placeholders._
 
 
-### 🟢 Hello_My_bot
+### 🔵 Hello_My_bot
 ![HMB Cover](screenshots/HMB_COVER.jpeg)
 ![HMB Main](screenshots/HMB.png)
 ![HMB 1](screenshots/HMB1.png)
@@ -75,16 +75,16 @@ _Add these once we upload screenshots or links:_
 ![HMB 3](screenshots/HMB3.png)
 ![HMB 4](screenshots/HMB4.png) 
 
-### 🟡 Nexaminds
+### 🟠 Nexaminds
 ![Nexaminds Website 1](screenshots/NEXAMINDS_WEBSITE_1.png)
 ![Nexaminds Website](screenshots/NEXAMINDS_WEBSITE.png)
 
 
-### 🔴 ZSZ Developer (Lovester Project)
-## 🔴 Landing Website
+### 🩷  ZSZ Developer (Lovester Project)
+## Landing Website
 ![Lovester Website](screenshots/LOVESTER_WEBSITE.png)
 
-## 🔴 Web App
+## Web App
 ![Lovester App](screenshots/LOVESTER_APP.png)
 ![Lovester App 1](screenshots/LOVESTER_APP1.png)
 
