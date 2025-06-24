@@ -17,16 +17,32 @@ Backend-focused full-stack developer passionate about clean architecture, micros
 ## 🧠 Tech Stack
 
 ```
-NestJS • NodeJS • Express • MongoDB • Mongoose • TypeScript • NX Monorepo • Next.js • Vue.js  
-Docker • GitLab CI/CD • Swagger • Postman • Redis • BullMQ • Firebase Messaging
+**Backend:** NestJS, Node.js, Express, MongoDB, Mongoose, TypeScript, Php,Laravel,My-Sql  
+**Frontend:** Next.js, Vue.js, Strapi  
+**DevOps / Tools:** Docker, GitLab CI/CD, Swagger, Postman, Redis, BullMQ  
+**Others:** NX Monorepo, Firebase Messaging, Agile, TDD, SOLID
 ```
+## 🧭 What I’m Open To
 
+- Backend-focused roles (Node.js/NestJS)
+- Remote or hybrid positions
+- Freelance contracts
+- Technical mentorship or collaboration on open-source
 ---
 
 ## 💼 Work Experience
+### 🔴 Affincia (Affitech) – _Senior Fullstack Developer_ 
+**April 2025 – Present**  
+Currently working on **Espace Client**, a web dashboard that allows users to manage their electricity contracts and households.
+
+- Developed and secured the **password reset flow**, including token handling and reset logic using **Laravel**
+- Built dashboard views using **Vue.js**, allowing users to manage their **households and contracts**
+- Integrated **CM.com Sign API** to support document signing with webhook handling
+- Contributed to both backend (Laravel) and frontend (Vue) in a cross-functional dev team
+
 
 ### 🔵 Hello_My_bot– _Senior Fullstack Developer_  
-**Sep 2024 – Present**
+**Sep 2024 – Mar 2025**
 
 - Built a custom analytics API for chatbot usage using **NestJS + MongoDB**
 - Integrated **OpenAI GPT APIs** into chatbot flows
