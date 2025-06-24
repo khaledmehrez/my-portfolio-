@@ -25,7 +25,7 @@ Docker • GitLab CI/CD • Swagger • Postman • Redis • BullMQ • Firebas
 
 ## 💼 Work Experience
 
-### 🟢 Affinica Affitech – _Senior Fullstack Developer_  
+### 🟢 Hello_My_bot– _Senior Fullstack Developer_  
 **Sep 2024 – Present**
 
 - Built a custom analytics API for chatbot usage using **NestJS + MongoDB**
@@ -66,9 +66,28 @@ _Add these once we upload screenshots or links:_
 
 > _You can paste images here using GitHub issues or direct uploads. For now, we’ll leave placeholders._
 
-```
-![Dashboard Example](screenshots/affinica-dashboard.png)
-```
+
+### 🟢 Hello_My_bot
+![HMB Cover](screenshots/HMB_COVER.jpeg)
+![HMB Main](screenshots/HMB.png)
+![HMB 1](screenshots/HMB1.png)
+![HMB 2](screenshots/HMB2.png)
+![HMB 3](screenshots/HMB3.png)
+![HMB 4](screenshots/HMB4.png) 
+
+### 🟡 Nexaminds
+![Nexaminds Website](screenshots/NEXAMINDS_WEBSITE.png)
+![Nexaminds Website 1](screenshots/NEXAMINDS_WEBSITE_1.png)
+![Nexaminds Website 2](screenshots/NEXAMINDS_WEBSITE2.png)
+
+### 🔴 ZSZ Developer (Lovester Project)
+![Lovester App](screenshots/LOVESTER_APP.png)
+![Lovester App 1](screenshots/LOVESTER_APP1.png)
+![Lovester Website](screenshots/LOVESTER_WEBSITE.png)
+
+### 🌱 Side Projects
+![Espace Client](screenshots/ESPACE_CLIENT.png)
+![Espace Client 2](screenshots/ESPACE_CLIENT2.png)
 
 ---
 
