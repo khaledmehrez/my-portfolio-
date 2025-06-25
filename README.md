@@ -81,8 +81,6 @@ _Add these once we upload screenshots or links:_
 
 ## 📷 Screenshots
 
-> _You can paste images here using GitHub issues or direct uploads. For now, we’ll leave placeholders._
-
 ### 🔴 Affincia (Affitech)
 ![Espace Client](screenshots/ESPACE_CLIENT.png)
 ![Espace Client 2](screenshots/ESPACE_CLIENT2.png)
