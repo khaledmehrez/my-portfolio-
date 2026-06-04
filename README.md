@@ -1,7 +1,7 @@
 # 👨‍💻 Khaled Mehrez  
 **Senior Fullstack Developer | NestJS Specialist | 4 Years XP**
 
-Backend-focused full-stack developer passionate about clean architecture, microservices, and delivering real value through scalable systems. I’ve spent the past 4 years crafting backend services, contributing to both startup growth and enterprise-grade platforms.
+Backend-focused full-stack developer passionate about clean architecture, microservices, and delivering real value through scalable systems. I’ve spent the past 5 years crafting backend services, contributing to both startup growth and enterprise-grade platforms.
 
 ---
 
@@ -72,39 +72,42 @@ Currently working on **Espace Client**, a web dashboard that allows users to man
 
 ## 🌱 Side Projects
 
-_Add these once we upload screenshots or links:_
-
-- 🔧 **Active Citizen Website** – Volunteering project under ONTJ + British Council
-- 📊 **Personal Stats Dashboard** – [coming soon]
+- 🔧 **Lovester** – Dating application with personality matching
+- 📊 **Active Citizen Website** – Volunteering project under ONTJ + British Council
 
 ---
 
 ## 📷 Screenshots
 
 ### 🔴 Affincia (Affitech)
-![Espace Client](screenshots/ESPACE_CLIENT.png)
-![Espace Client 2](screenshots/ESPACE_CLIENT2.png)
+![Affincia](screenshots/Affincia.png)
+![Affinica 1](screenshots/Affinicia_1.png)
+![Affinica 3](screenshots/Affinicia_3.png)
+![Affinica 4](screenshots/Affinicia_4.png)
+![Affinica 5](screenshots/Affinicia_5.png)
+![Affinica 6](screenshots/Affinicia_6.png)
+![Affinica 7](screenshots/Affinicia_7.png)
+![Affinica 8](screenshots/Affinicia_8.png)
+![Affinica 9](screenshots/Affinicia_9.png)
+![Affinica 10](screenshots/Affinicia_10.png)
 
 ### 🔵 Hello_My_bot
-![HMB Cover](screenshots/HMB_COVER.jpeg)
-![HMB Main](screenshots/HMB.png)
-![HMB 1](screenshots/HMB1.png)
-![HMB 2](screenshots/HMB2.png)
-![HMB 3](screenshots/HMB3.png)
-![HMB 4](screenshots/HMB4.png) 
+![HMB Hello My Bot](screenshots/Hello_My_Bot.jpeg)
+![HMB Main 1](screenshots/Hello_My_Bot_1.png)
+![HMB Main 2](screenshots/Hello_My_Bot_2.png)
+![HMB Main 3](screenshots/Hello_My_Bot_3.png)
+![HMB Main 4](screenshots/Hello_My_Bot_4.png)
+![HMB Main 6](screenshots/Hello_My_Bot_6.png)
 
-### 🟠 Nexaminds
-![Nexaminds Website 1](screenshots/NEXAMINDS_WEBSITE_1.png)
-![Nexaminds Website](screenshots/NEXAMINDS_WEBSITE.png)
+### � Nexaminds
+![Nexaminds](screenshots/Nexaminds.png)
+![Nexaminds 1](screenshots/Nexaminds_1.png)
+![Nexaminds 2](screenshots/Nexaminds_2.png)
 
-
-### 🩷  ZSZ Developer (Lovester Project)
-## Landing Website
-![Lovester Website](screenshots/LOVESTER_WEBSITE.png)
-
-## Web App
-![Lovester App](screenshots/LOVESTER_APP.png)
-![Lovester App 1](screenshots/LOVESTER_APP1.png)
+### 💗 Lovester
+![Lovester App](screenshots/Lovester_App.png)
+![Lovester App 1](screenshots/Lovester_App_1.png)
+![Lovester App 2](screenshots/Lovester_App_2.png)
 
 
 ---
